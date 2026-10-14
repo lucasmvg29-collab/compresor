@@ -14,7 +14,7 @@ Compresor multi-formato **gratuito y open source** para Windows.
 
 ## 📥 Descarga
 
-[Descargar última versión](https://github.com/TU-USUARIO/compresorpro/releases)
+[Descargar última versión](https://github.com/lucasmvg29-collab/compresor/releases/tag/v3.1)
 
 ## 🚀 Uso
 
